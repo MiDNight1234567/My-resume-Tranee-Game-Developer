@@ -96,6 +96,7 @@ body {
   line-height: 24px;
   text-decoration-line: underline;
   color: #0005ff;
+  text-decoration: none;
 }
 
 /* Work experiance */
@@ -197,6 +198,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #2979ff;
+  text-decoration: none;
 }
 
 /* Skills */
