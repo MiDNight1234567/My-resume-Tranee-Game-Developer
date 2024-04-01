@@ -146,12 +146,15 @@ body {
 /* Sidebar */
 
 .sidebar {
-  width: 370px;
+  width: 380px;
   background: #e0ebfe;
 }
 
 .my-photo {
   margin-top: 40px;
+  border: 1px solid #8189ff2b;
+  box-sizing: border-box;
+  border-radius: 10px;
 }
 
 .contacts-container,
