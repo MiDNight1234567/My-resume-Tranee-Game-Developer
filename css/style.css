@@ -124,10 +124,10 @@ body {
 .work-period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
-  line-height: 15px;
-  color: #a8a8a8;
-  margin: 12px 0 8px 0;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin: 0;
 }
 
 .work-duties {
@@ -136,6 +136,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
+  margin-bottom: 10px;
 }
 
 .work-duties-list {
