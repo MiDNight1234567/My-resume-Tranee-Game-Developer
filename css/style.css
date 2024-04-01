@@ -136,12 +136,20 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
-  margin-bottom: 10px;
 }
 
 .work-duties-list {
   padding: 0 0 0 14px;
   margin: 0 0 12px 0;
+}
+
+.period-work {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 10px;
 }
 
 /* Sidebar */
